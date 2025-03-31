@@ -4,7 +4,7 @@
    <strong>Hudson Liu</strong><br>
    <samp>
       <em>Undergrad @ Yale (Co‘29)</em><br>
-      <em>Math Major</em>
+      <em>Math + CS</em>
    </samp><br>
 </p>
 <p align="center">
