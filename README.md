@@ -3,7 +3,7 @@
 <p align="center">
    <strong>Hudson Liu</strong><br>
    <samp>
-      <em>Undergrad @ Yale (Co‘29)</em><br>
+      <em>Undergrad @ Caltech (Co‘29)</em><br>
       <em>Math + CS</em>
    </samp><br>
 </p>
