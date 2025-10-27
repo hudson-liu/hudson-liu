@@ -9,8 +9,8 @@
 </p>
 <p align="center">
    <samp>
-      <a href="https://discord.com/users/879464844103934014" target="_blank">Discord</a> &#8226;
-      <a href="https://Hudson-Liu.github.io/Personal-Website" target="_blank">Website</a> &#8226;
+      <a href="https://hudson.is-a.dev/resume.pdf" target="_blank">Resume</a> &#8226;
+      <a href="https://hudson.is-a.dev" target="_blank">Website</a> &#8226;
       <a href="https://open.spotify.com/user/gp7nllrydxulmq3ffjci87nod" target="_blank">Spotify</a>
    </samp>
 </p>
